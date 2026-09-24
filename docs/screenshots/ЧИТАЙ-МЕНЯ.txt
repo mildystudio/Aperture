@@ -1,1 +1,0 @@
-﻿Сюда кладутся скриншоты: 01-hero-photo.png, 02-grid.png и т.д. по списку из docs/release-notes/screenshots.md. Когда снимки будут готовы, этот файл можно удалить.
